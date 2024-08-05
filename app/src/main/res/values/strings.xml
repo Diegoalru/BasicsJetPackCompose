@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Basics Codelab</string>
+    <string name="hello">Hello, </string>
+    <string name="onboarding">Welcome to the Basics Codelab!</string>
+    <string name="continue_button">Continue</string>
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+    <string name="itemFormat" translatable="false">%1$s</string>
+    <string name="lorem" translatable="false">Composem ipsum color sit lazy, padding theme elit, sed do bouncy.</string>
+</resources>

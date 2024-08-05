@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">¡Hola,</string>
+    <string name="onboarding">¡Bienvenido a Basics Codelab!</string>
+    <string name="show_more">Mostrar más</string>
+    <string name="show_less">Mostrar menos</string>
+    <string name="continue_button">Continuar</string>
+</resources>
